@@ -50,7 +50,7 @@
                             <input type="submit" value="Delete your profile">
                         </form>
 
-                        <form class="change" action="#" method="POST">
+                        <form class="change" action="./mod-page.php" method="POST">
                             <input type="hidden" name="email" value="<?php echo $users["email"] ?>">
                             <input type="submit" value="Change your details">
                         </form>

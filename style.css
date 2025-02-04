@@ -86,3 +86,13 @@ button.btn:active {
   font-size: 16px;
   margin-top: 5px;
 }
+
+.upd {
+  text-align: center;
+}
+
+.upd a {
+  text-decoration: none;
+  display: block;
+  margin-top: 50px;
+}
